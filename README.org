@@ -1,0 +1,10 @@
+* cl-stopwatch
+
+
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/stylewarning/cl-stopwatch.git   |
+| commit  | 3f55250  |
+| systems | cl-stopwatch |
+|---------+-------------------------------------------|
+
